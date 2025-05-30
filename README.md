@@ -4,25 +4,4 @@
 
 
 
-# Project Title
-hyyyyy
-
-
-
-
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
-
-## Running Tests
-
-To run tests, run the following command
-
-```bash
-  npm run test
-```
 
